@@ -2,5 +2,5 @@
 
 - Used React & Tailwind
 
-![image](https://github.com/Wuczek/tic-tac-toe/blob/main/screenshot.png)
+![image](https://github.com/Wuczek/image-slider/blob/main/screenshot.png)
 
